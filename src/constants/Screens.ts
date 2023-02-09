@@ -1,0 +1,15 @@
+export const LOADING_SCREEN: string = 'LoadingScreen';
+export const SPLASH_SCREEN: string = 'SplashScreen';
+export const LOGIN_SCREEN: string = 'LoginScreen';
+export const REGISTER_SCREEN: string = 'RegisterScreen';
+export const HOMES_CREEN: string = 'HomeScreen';
+export const PRODUCT_DETAILS_SCREEN: string = 'ProductDetailsScreen';
+export const CART_SCREEN: string = 'CartScreen';
+export const SELECT_ADDRESS_SCREEN: string = 'SelectAddressScreen';
+export const ADDRESS_SCREEN: string = 'AddAddressScreen';
+export const ORDER_PLACED_SCREEN: string = 'OrderPlacedScreen';
+export const CHECKOUT_SCREEN: string = 'CheckoutScreen';
+export const PROFILE_SCREEN: string = 'ProfileScreen';
+export const ORDERS_SCREEN: string = 'OrdersScreen';
+export const ORDER_DETAILS_SCREEN: string = 'OrderDetailsScreen';
+export const FAVOURITES_SCREEN: string = 'FavouritesScreen';
